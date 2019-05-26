@@ -19,6 +19,8 @@ For: my learning on python
 
 ## Try-Kaggle
 
+## Misc
+Tools and other useful stuffs
 
 ## My Walking on learning DL
 DATE | WHAT

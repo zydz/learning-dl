@@ -3,8 +3,7 @@ Notes
 
 ### naive-ipython.ipynb
 
-on Thursday, 23. May 2019 04:46PM 
-I firstly practice python with Jupyter Notebook. This file is the output.
+On Thursday, 23. May 2019 04:46PM, I firstly practice python with Jupyter Notebook. This file is the output.
 The code in this file is very naive. However, I will leave it here to urge me to move on
 
 you should also know the shortcuts of Jupyter.
