@@ -1,6 +1,7 @@
 # learning-dl
 ## Goal
 This repo is for my study on DL/ML. I'd like to record the long walking on this road.
+
 - The favorite __Course__ on this subjuct: [Deeping Learning by Andew on Coursera](https://www.coursera.org/specializations/deep-learning)
 - The favorite __GitHub__ : [Virgilio](https://github.com/virgili0/Virgilio)
 - Another useful __GitHub__:[从入门到进阶，所用到机器学习资料，包括书、视频、源码](https://github.com/linxid/Machine_Learning_Study_Path)
@@ -33,7 +34,7 @@ May 20 2019 | Finish Andew NG's deeplearning.ai
 May 21 2019 | Environment on MacBook
 May 25 2019 | Learning on NumPy/Matplotlib
 May 26 2019 | Learning on Pandas
-May 
+May 27 2019 | read data-science-cheatsheet.pdf
 
 
 
