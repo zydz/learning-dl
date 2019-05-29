@@ -26,3 +26,9 @@ This file is only for grammars of python
 
 ### toy-tensorflow.ipynb
 this fiile contains some simple features when I learn TensorFlow. I also wish to record my study roadmap of studying DL.
+
+### python_interview_question.md
+From [link](https://github.com/kenwoodjw/python_interview_question)
+You could not get the real skill without some practice. These questions help me to think of this language.
+I will output my [notebook](python_interview_question-my_solution.ipynb)
+
