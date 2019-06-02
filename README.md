@@ -47,6 +47,8 @@ May 21 2019 | Environment on MacBook
 May 25 2019 | Learning on NumPy/Matplotlib
 May 26 2019 | Learning on Pandas
 May 27 2019 | read data-science-cheatsheet.pdf
+May 28 2019 | Focus on Virtulization
 May 29 2019 | Try MLDemos
+May 30 2019 | Python interview questions 
 
 
