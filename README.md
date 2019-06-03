@@ -51,4 +51,4 @@ May 28 2019 | Focus on Virtulization
 May 29 2019 | Try MLDemos
 May 30 2019 | Python interview questions 
 
-
+Jun 03 2019 | Hands on Scikit-Learn
