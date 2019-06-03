@@ -38,17 +38,18 @@ Paper is important.
 ## My Walking on learning DL
 DATE | WHAT
 ---|---
-May 1st, 2019 | Start Andew NG's deeplearning.ai
-May 2nd, 2019 | Download Feifei Lee's Stanford CNN course
-May 3rd 2019  | Environment on Ubuntu14.04
-May 12  2019 | Knowing about __Virgilio__ 
+May 01 2019 | Start Andew NG's deeplearning.ai
+May 02 2019 | Download Feifei Lee's Stanford CNN course
+May 03 2019 | Environment on Ubuntu14.04
+May 12 2019 | Knowing about __Virgilio__ 
 May 20 2019 | Finish Andew NG's deeplearning.ai
 May 21 2019 | Environment on MacBook
 May 25 2019 | Learning on NumPy/Matplotlib
 May 26 2019 | Learning on Pandas
-May 27 2019 | read data-science-cheatsheet.pdf
+May 27 2019 | Read data-science-cheatsheet.pdf
 May 28 2019 | Focus on Virtulization
 May 29 2019 | Try MLDemos
 May 30 2019 | Python interview questions 
-
+Jun 01 2019 | Try PyTorch
+Jun 02 2019 | Try TensorFlow
 Jun 03 2019 | Hands on Scikit-Learn
