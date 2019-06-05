@@ -40,7 +40,8 @@ Paper is difficult.
 Paper is important.
 
 ## Blogs
-- [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+- Summary or Cheatsheet for DL/ML
+  - [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
 
 ## My Walking on learning DL
 DATE | WHAT

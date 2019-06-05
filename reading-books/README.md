@@ -1,10 +1,28 @@
 Reading Books
 ------------
+
+“我生也有涯，而知也无涯，以有涯逐无涯殆矣！”
+“书不尽言，言不尽意”
+“想象力比知识更重要”
+"纸上得来终觉浅，觉知此事要躬行"
+
 # 图解机器学习.pdf
 
 # 周志华-机器学习_.pdf
 
-#  Hands-On Machine Learning with Scikit-Learn and TensorFlow
+# Different Perspectives
+- ML - A Bayesian and Optimization Perspective.Elsevier.2015
+- ML - A Constraint-Based Approach.2018
+- ML - A.Probabilistic.Perspective.MIT.2012
+- ML - An Algorithmic Perspective 2nd Ed
+
+# TensorFlow
+- Learning TensorFlow - 2017
+- TensorFlow for Deep Learning - 2018
+- Machine Learning with TensorFlow - 2017
+
+
+# Hands-On Machine Learning with Scikit-Learn and TensorFlow
 ```
 Hands-On Machine Learning with Scikit-Learn and TensorFlow
 by Aurélien Géron
@@ -18,24 +36,19 @@ Published by O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol,
 
 # TODO
 - ML
-```
-Building Machine Learning Systems with Python - Richert, Coelho.pdf
-Machine Learning  A Bayesian and Optimization Perspective.pdf
-Machine Learning - An Algorithmic Perspective 2nd Edition.pdf
-Machine.Learning.A.Probabilistic.Perspective,.Kevin.P..Murphy,.MIT.Press,.2012.pdf
-Machine Learning - Tom Mitchell.pdf
-Machine Learning - Tom Mitchell(中文版).pdf
-OReilly.Hands-On.Machine.Learning.with.Scikit-Learn.and.TensorFlow.2017.3.pdf
-Pattern Recognition and Machine Learning.pdf
-sanet.cd_Machine Learning A Constraint-Based Approach.pdf
-```
+  - Building Machine Learning Systems with Python - Richert, Coelho.pdf
+  - Machine Learning  A Bayesian and Optimization Perspective.pdf
+  - Machine Learning - An Algorithmic Perspective 2nd Edition.pdf
+  - Machine.Learning.A.Probabilistic.Perspective,.Kevin.P..Murphy,.MIT.Press,.2012.pdf
+  - Machine Learning - Tom Mitchell.pdf
+  - Machine Learning - Tom Mitchell(中文版).pdf
+  - OReilly.Hands-On.Machine.Learning.with.Scikit-Learn.and.TensorFlow.2017.3.pdf
+  - Pattern Recognition and Machine Learning.pdf
+  - sanet.cd_Machine Learning A Constraint-Based Approach.pdf
 - DL
-```
-deep+learning book_cn_v0.5-beta.pdf
-deeplearningbook.pdf
-Deep Learning with Keras_wrapper.pdf
-Deep Learning with Python.pdf
-Deep Learning（深度学习）学习笔记整理.pdf
-
-```
+  - deep+learning book_cn_v0.5-beta.pdf
+  - deeplearningbook.pdf
+  - Deep Learning with Keras_wrapper.pdf
+  - Deep Learning with Python.pdf
+  - Deep Learning（深度学习）学习笔记整理.pdf
 
