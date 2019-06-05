@@ -8,6 +8,10 @@ This field is a little bit too big for me right now. I would like to cut this is
 - Middle Term: ML/DL models , classic algorithm implementation
 - Long Term: Mathematics and Papers
 
+## Roadmap
+I borrow one picture from [Virgilio](https://github.com/virgili0/Virgilio) as:
+![Roadmap](misc/roadmap.png)
+
 ## Courses and projects
 - The favorite __Course__ on this subjuct: [Deeping Learning by Andew on Coursera](https://www.coursera.org/specializations/deep-learning)
 - The favorite __GitHub__ : [Virgilio](https://github.com/virgili0/Virgilio)
@@ -35,6 +39,9 @@ Tools and other useful stuffs
 Paper is difficult.
 Paper is important.
 
+## Blogs
+- [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+
 ## My Walking on learning DL
 DATE | WHAT
 ---|---
@@ -52,4 +59,5 @@ May 29 2019 | Try MLDemos
 May 30 2019 | Python interview questions 
 Jun 01 2019 | Try PyTorch
 Jun 02 2019 | Try TensorFlow
-Jun 03 2019 | Hands on Scikit-Learn
+Jun 03 2019 | Hands on [Scikit-Learn](https://scikit-learn.org/)
+Jun 04 2019 | Hands on [TensorFlow](https://www.tensorflow.org/) 
