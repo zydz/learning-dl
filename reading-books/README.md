@@ -3,6 +3,8 @@ Reading Books
 # 图解机器学习.pdf
 
 # 周志华-机器学习_.pdf
+- [公式的推导](https://github.com/datawhalechina/pumpkin-book)
+- [课后习题](https://zhuanlan.zhihu.com/c_1013850291887845376)
 
 #  Hands-On Machine Learning with Scikit-Learn and TensorFlow
 ```

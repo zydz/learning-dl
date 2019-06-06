@@ -15,6 +15,7 @@ I borrow one picture from [Virgilio](https://github.com/virgili0/Virgilio) as:
 ## Courses and projects
 - The favorite __Course__ on this subjuct: [Deeping Learning by Andew on Coursera](https://www.coursera.org/specializations/deep-learning)
 - The favorite __GitHub__ : [Virgilio](https://github.com/virgili0/Virgilio)
+- The favorite __CN GitHub__:[ApacheCN](https://github.com/apachecn)
 - Another useful __GitHub__:[从入门到进阶，所用到机器学习资料，包括书、视频、源码](https://github.com/linxid/Machine_Learning_Study_Path)
 - Mathematics: [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html#sec4.5)
 - [CNN Papers](https://github.com/robertsdionne/neural-network-papers)
@@ -38,9 +39,40 @@ Tools and other useful stuffs
 ## Papers
 Paper is difficult.
 Paper is important.
+I borrow a roadmap for paper reading from [GitHub](https://github.com/hoya012/deep_learning_object_detection)
+
+![paper-roadmap](misc/paper-roadmap.jpeg)
+
+[Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
+[Papers with Code(Sorted by stars)](https://github.com/zziz/pwc)
+
+[100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+
+
+
+Browse state-of-the-art 
+
+- [websit](<https://paperswithcode.com/sota>)
+- [CV](<https://paperswithcode.com/area/computer-vision>)
+- [NLP](<https://paperswithcode.com/area/natural-language-processing>)
+
+
+
+## __Maths__
+I love maths.
+
 
 ## Blogs
 - [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+
+
+
+## FQA
+
+[DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+
+
 
 ## My Walking on learning DL
 DATE | WHAT
