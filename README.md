@@ -64,7 +64,8 @@ I love maths.
 
 
 ## Blogs
-- [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+- Summary or Cheatsheet for DL/ML
+  - [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
 
 
 
