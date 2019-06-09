@@ -1,9 +1,24 @@
 Notes
 ---
 
-### My View
-Python itself is easy. Python's labraries are complex, however. How to learnthis language quickly? How to understand this language deeply?
+## My View
+Python itself is easy. Python's labraries are complex, however. How to learn this language quickly? How to understand this language deeply?
 
+## Books
+- Basic
+  - Learning Python, 5th Edition
+  - Python_Cookbook_3rd_Edition
+- Advanced
+  - Data Structures and Algorithms in Python-2013
+  - Python for Data Analysis 2nd Edition
+- Libraries
+  - NumPy
+  - Matplotlib
+  - Pandas
+  - Scikit-learn
+  - TensorFlow
+
+## Philosophy 
 ```
 The Zen of Python, by Tim Peters
 
@@ -67,4 +82,13 @@ this fiile contains some simple features when I learn TensorFlow. I also wish to
 From [link](https://github.com/kenwoodjw/python_interview_question)
 You could not get the real skill without some practice. These questions help me to think of this language.
 I will output my [notebook](python_interview_question-my_solution.ipynb)
+
+
+### Play Ground
+#### sort 
+![sort](images/sort.png)
+
+- [python 十大经典排序算法](https://www.cnblogs.com/wuxinyan/p/8615127.html)
+
+
 

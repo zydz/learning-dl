@@ -32,6 +32,8 @@ For: my learning on python
 ## Learning-Virgilio
 
 ## Try-Kaggle
+- Kaggle
+- 天池/京东/CCF/challenger.ai
 
 ## Misc
 Tools and other useful stuffs
@@ -94,3 +96,8 @@ Jun 01 2019 | Try PyTorch
 Jun 02 2019 | Try TensorFlow
 Jun 03 2019 | Hands on [Scikit-Learn](https://scikit-learn.org/)
 Jun 04 2019 | Hands on [TensorFlow](https://www.tensorflow.org/) 
+Jun 05 2019 | Browse Virgilio/AppacheCN
+Jun 06 2019 | Read WaterMelon-Book
+Jun 09 2019 | Study classic sorting algorithm and do it in Python
+Jun 08 2019 | Study Data-Structure in Python
+
