@@ -32,7 +32,7 @@ For: my learning on python
 ## Learning-Virgilio
 
 ## Try-Kaggle
-- Kaggle
+- Kaggle [Websit](https://www.kaggle.com/) [GitHub](https://github.com/Kaggle)
 - 天池/京东/CCF/challenger.ai
 
 ## Misc

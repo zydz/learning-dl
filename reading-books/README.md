@@ -54,3 +54,8 @@ Published by O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol,
   - Deep Learning with Python.pdf
   - Deep Learning（深度学习）学习笔记整理.pdf
 
+
+## Comparation
+I get one picture from Internet [《统计学习方法》(李航)读书笔记(完结)](https://www.cnblogs.com/limitlessun/p/8611103.html) as
+![](images/statistics-ML.png)
+
