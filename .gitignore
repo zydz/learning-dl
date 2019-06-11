@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 .DS_Store
+*.zip
+data
+playground.ipynb
+Untitled*.ipynb
