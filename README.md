@@ -98,6 +98,10 @@ Jun 03 2019 | Hands on [Scikit-Learn](https://scikit-learn.org/)
 Jun 04 2019 | Hands on [TensorFlow](https://www.tensorflow.org/) 
 Jun 05 2019 | Browse Virgilio/AppacheCN
 Jun 06 2019 | Read WaterMelon-Book
-Jun 09 2019 | Study classic sorting algorithm and do it in Python
+Jun 07 2019 | Study classic sorting algorithm and do it in Python
 Jun 08 2019 | Study Data-Structure in Python
+Jun 10 2019 | Study Kaggle Cases: Titanic 
+Jun 12 2019 | Study Kaggle Cases: Extensive US Youtube 
+
+ 
 
