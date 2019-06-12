@@ -12,11 +12,12 @@ Python itself is easy. Python's labraries are complex, however. How to learn thi
   - Data Structures and Algorithms in Python-2013
   - Python for Data Analysis 2nd Edition
 - Libraries
-  - NumPy
-  - Matplotlib
-  - Pandas
-  - Scikit-learn
-  - TensorFlow
+  - [NumPy](http://www.numpy.org/)
+  - [Matplotlib](https://matplotlib.org/)
+  - [Pandas](http://pandas.pydata.org/)
+  - Scikit-learn [sklearn](https://scikit-learn.org/stable/)
+  - [TensorFlow](www.tensorflow.org)
+  - [Seaborn](http://seaborn.pydata.org/)
 
 ## Philosophy 
 ```
