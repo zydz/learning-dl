@@ -51,6 +51,17 @@ I borrow a roadmap for paper reading from [GitHub](https://github.com/hoya012/de
 
 [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 
+## ML Algorithms
+One algorithm one day
+- ML Classic Algorithms
+    - K-Means
+    - KNN
+    - Decision Tree
+    - Random Forest
+- DL
+    - CNN
+    - RNN
+
 
 
 Browse state-of-the-art 
@@ -102,6 +113,7 @@ Jun 07 2019 | Study classic sorting algorithm and do it in Python
 Jun 08 2019 | Study Data-Structure in Python
 Jun 10 2019 | Study Kaggle Cases: Titanic 
 Jun 12 2019 | Study Kaggle Cases: Extensive US Youtube 
+Jun 13 2019 | Start a project on algorithm study
 
  
 
