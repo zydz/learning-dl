@@ -114,6 +114,6 @@ Jun 08 2019 | Study Data-Structure in Python
 Jun 10 2019 | Study Kaggle Cases: Titanic 
 Jun 12 2019 | Study Kaggle Cases: Extensive US Youtube 
 Jun 13 2019 | Start a project on algorithm study
+Jun 13 2019 | Start to finish a tutorial from [Kaggle Data Visualization](https://www.kaggle.com/learn/data-visualization) within 1 week
 
- 
 
