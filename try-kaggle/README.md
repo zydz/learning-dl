@@ -53,3 +53,11 @@ Inspirition
 - 文本类：N-gram、Bag-of-words、TF-IDF
 - 统计型：与业务强关联
 - 组合特征
+
+
+## BLOG
+[Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+[为什么Kaggle数据分析竞赛者偏爱XGBoost](https://yq.aliyun.com/articles/70770)
+
+
+

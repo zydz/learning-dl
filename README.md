@@ -62,6 +62,8 @@ One algorithm one day
     - CNN
     - RNN
 
+- Boost        
+    - [XGBoost](https://blog.csdn.net/huacha__/article/details/81029680#%E4%B8%89%E3%80%81MacOS%E5%AE%89%E8%A3%85XGBoost)
 
 
 Browse state-of-the-art 
