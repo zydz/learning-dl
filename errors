@@ -1,0 +1,33 @@
+
+>>> import xgboost
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/lib/python3.5/dist-packages/xgboost/__init__.py", line 11, in <module>
+    from .core import DMatrix, Booster
+  File "/usr/local/lib/python3.5/dist-packages/xgboost/core.py", line 161, in <module>
+    _LIB = _load_lib()
+  File "/usr/local/lib/python3.5/dist-packages/xgboost/core.py", line 152, in _load_lib
+    'Error message(s): {}\n'.format(os_error_list))
+xgboost.core.XGBoostError: XGBoost Library (libxgboost.so) could not be loaded.
+Likely causes:
+  * OpenMP runtime is not installed (vcomp140.dll or libgomp-1.dll for Windows, libgomp.so for UNIX-like OSes)
+  * You are running 32-bit Python on a 64-bit OS
+Error message(s): ["/usr/lib/x86_64-linux-gnu/libgomp.so.1: version `GOMP_4.0' not found (required by /usr/local/lib/python3.5/dist-packages/xgboost/./lib/libxgboost.so)"]
+
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt update
+sudo apt install gcc-6
+sudo apt install g++-6
+
+
+XGBoostError: XGBoost Library (libxgboost.so) could not be loaded.
+Likely causes:
+  * OpenMP runtime is not installed (vcomp140.dll or libgomp-1.dll for Windows, libgomp.so for UNIX-like OSes)
+  * You are running 32-bit Python on a 64-bit OS
+Error message(s): ['dlopen: cannot load any more object with static TLS']
+
+
+
+sudo pip uninstall xgboost
+sudo pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ xgboost
+
