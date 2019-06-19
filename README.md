@@ -118,5 +118,6 @@ Jun 12 2019 | Study Kaggle Cases: Extensive US Youtube
 Jun 13 2019 | Start a project on algorithm study
 Jun 13 2019 | Start to finish a tutorial from [Kaggle Data Visualization](https://www.kaggle.com/learn/data-visualization) within 1 week
 Jun ~19 2019 | Play on Kaggle
-jun 19 2019 | Practice on data preprocessing
+Jun 19 2019 | Practice on data preprocessing
+Jun 20 2019 | Learn __Transfer Learning__
 
