@@ -59,5 +59,5 @@ Inspirition
 [Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 [为什么Kaggle数据分析竞赛者偏爱XGBoost](https://yq.aliyun.com/articles/70770)
 
-
+[1st PLACE - WINNER SOLUTION - Gilberto Titericz & Stanislav Semenov](https://www.kaggle.com/c/otto-group-product-classification-challenge/discussion/14335)
 

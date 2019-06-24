@@ -119,5 +119,5 @@ Jun 13 2019 | Start a project on algorithm study
 Jun 13 2019 | Start to finish a tutorial from [Kaggle Data Visualization](https://www.kaggle.com/learn/data-visualization) within 1 week
 Jun ~19 2019 | Play on Kaggle
 Jun 19 2019 | Practice on data preprocessing
-Jun 20 2019 | Learn __Transfer Learning__
+Jun 20 2019 | Learn [__Transfer Learning__](https://github.com/jindongwang/transferlearning)
 
