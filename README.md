@@ -62,8 +62,10 @@ One algorithm one day
     - CNN
     - RNN
 
-- Boost        
+- Boost
     - [XGBoost](https://blog.csdn.net/huacha__/article/details/81029680#%E4%B8%89%E3%80%81MacOS%E5%AE%89%E8%A3%85XGBoost)
+    - [A brief PDF](misc/pdfs/xgboost.pdf)
+    - [Offical Doc](https://xgboost.readthedocs.io/en/latest/index.html)
 
 
 Browse state-of-the-art 
@@ -120,4 +122,4 @@ Jun 13 2019 | Start to finish a tutorial from [Kaggle Data Visualization](https:
 Jun ~19 2019 | Play on Kaggle
 Jun 19 2019 | Practice on data preprocessing
 Jun 20 2019 | Learn [__Transfer Learning__](https://github.com/jindongwang/transferlearning)
-
+Jun 28 2019 | Learn [__XGBoost__](https://xgboost.readthedocs.io/en/latest/index.html)

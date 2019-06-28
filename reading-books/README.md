@@ -59,3 +59,6 @@ Published by O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol,
 I get one picture from Internet [《统计学习方法》(李航)读书笔记(完结)](https://www.cnblogs.com/limitlessun/p/8611103.html) as
 ![](images/statistics-ML.png)
 
+
+## NOTES
+(PHD.David Abel on ICML2019)(https://david-abel.github.io/notes/iclr_2019.pdf)

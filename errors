@@ -31,3 +31,37 @@ Error message(s): ['dlopen: cannot load any more object with static TLS']
 sudo pip uninstall xgboost
 sudo pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ xgboost
 
+
+
+>>> import tensorflow_hub
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow_hub/tf_v1.py", line 29, in <module>
+    from tensorflow.compat.v1 import *  # pylint: disable=wildcard-import
+ImportError: No module named 'tensorflow.compat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow_hub/__init__.py", line 30, in <module>
+    from tensorflow_hub.estimator import LatestModuleExporter
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow_hub/estimator.py", line 25, in <module>
+    from tensorflow_hub import tf_utils
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow_hub/tf_utils.py", line 28, in <module>
+    from tensorflow_hub import tf_v1
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow_hub/tf_v1.py", line 33, in <module>
+    from tensorflow import add_to_collection
+ImportError: cannot import name 'add_to_collection'
+
+ '''
+ I tried to install tensorflow_gpu version, but I failed. So maybe tensorflow got broken in the process.
+ I run:
+
+ sudo pip uninstall tensorflow
+ sudo pip install tensorflow
+ sudo pip uninstall tensorflow_hub
+ sudo pip install tensorflow_hub
+
+but these steps can not fix the error, untill
+ '''
+ sudo pip install --ignore-installed --upgrade --ignore-installed tensorflow
