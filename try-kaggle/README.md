@@ -61,3 +61,6 @@ Inspirition
 
 [1st PLACE - WINNER SOLUTION - Gilberto Titericz & Stanislav Semenov](https://www.kaggle.com/c/otto-group-product-classification-challenge/discussion/14335)
 
+[ECCV2018 |百度视觉团队斩获 ECCV Google AI 目标检测竞赛冠军，获奖方案全解读](http://www.cvmart.net/community/article/detail/347)
+[Profiling Top Kagglers: Bestfitting, Currently #1 in the World](http://blog.kaggle.com/2018/05/07/profiling-top-kagglers-bestfitting-currently-1-in-the-world/?utm_medium=email&utm_source=mailchimp&utm_campaign=data+projects+onboarding)
+
