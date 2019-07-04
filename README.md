@@ -123,3 +123,4 @@ Jun ~19 2019 | Play on Kaggle
 Jun 19 2019 | Practice on data preprocessing
 Jun 20 2019 | Learn [__Transfer Learning__](https://github.com/jindongwang/transferlearning)
 Jun 28 2019 | Learn [__XGBoost__](https://xgboost.readthedocs.io/en/latest/index.html)
+Jun 04 2019 | Learn [__Feature Engineering__](https://arxiv.org/abs/1811.12808)
