@@ -68,7 +68,7 @@ One algorithm one day
     - [Offical Doc](https://xgboost.readthedocs.io/en/latest/index.html)
 
 
-Browse state-of-the-art 
+##Browse state-of-the-art 
 
 - [websit](<https://paperswithcode.com/sota>)
 - [CV](<https://paperswithcode.com/area/computer-vision>)
@@ -78,6 +78,10 @@ Browse state-of-the-art
 
 ## __Maths__
 I love maths.
+
+## __Feature__ Engineering
+![](misc/images/feature1.png)
+![](misc/images/feature2.jpg)
 
 
 ## Blogs
