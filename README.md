@@ -79,7 +79,7 @@ One algorithm one day
 ## __Maths__
 I love maths.
 
-## __Feature__ Engineering
+## [__Feature__ Engineering](https://www.cnblogs.com/jasonfreak/p/5448385.html)
 ![](misc/images/feature1.png)
 ![](misc/images/feature2.jpg)
 
