@@ -26,3 +26,5 @@ A blog from CSDN: [DL-深度神经网络原理推导及PyTorch实现](https://bl
 I get one picture from Internet [《统计学习方法》(李航)读书笔记(完结)](https://www.cnblogs.com/limitlessun/p/8611103.html) as
 ![](images/statistics-ML.png)
 
+## DL nets
+- [VGG16](https://www.cs.toronto.edu/~frossard/post/vgg16/)
