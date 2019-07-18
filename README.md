@@ -19,7 +19,7 @@ I borrow one picture from [Virgilio](https://github.com/virgili0/Virgilio) as:
 - Another useful __GitHub__:[从入门到进阶，所用到机器学习资料，包括书、视频、源码](https://github.com/linxid/Machine_Learning_Study_Path)
 - Mathematics: [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html#sec4.5)
 - [CNN Papers](https://github.com/robertsdionne/neural-network-papers)
-
+- [numpy-ml](https://github.com/ddbourgin/numpy-ml)
 
 
 There are several parts in this repo:
@@ -64,8 +64,12 @@ One algorithm one day
 
 - Boost
     - [XGBoost](https://blog.csdn.net/huacha__/article/details/81029680#%E4%B8%89%E3%80%81MacOS%E5%AE%89%E8%A3%85XGBoost)
-    - [A brief PDF](misc/pdfs/xgboost.pdf)
-    - [Offical Doc](https://xgboost.readthedocs.io/en/latest/index.html)
+        - [A brief PDF](misc/pdfs/xgboost.pdf)
+        - [Offical Doc](https://xgboost.readthedocs.io/en/latest/index.html)
+    - lightgbm
+    - CatBoost
+    - [Battle of the Boosting Algorithms](https://lavanya.ai/2019/06/27/battle-of-the-boosting-algorithms/)
+
 
 
 ##Browse state-of-the-art 
@@ -111,8 +115,8 @@ May 27 2019 | Read data-science-cheatsheet.pdf
 May 28 2019 | Focus on Virtulization
 May 29 2019 | Try MLDemos
 May 30 2019 | Python interview questions 
-Jun 01 2019 | Try PyTorch
-Jun 02 2019 | Try TensorFlow
+Jun 01 2019 | Try [PyTorch](https://pytorch.org/)
+Jun 02 2019 | Try [TensorFlow](https://www.tensorflow.org/)
 Jun 03 2019 | Hands on [Scikit-Learn](https://scikit-learn.org/)
 Jun 04 2019 | Hands on [TensorFlow](https://www.tensorflow.org/) 
 Jun 05 2019 | Browse Virgilio/AppacheCN
