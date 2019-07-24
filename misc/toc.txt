@@ -1,0 +1,8 @@
+3、install lib
+pip install jupyter_contrib_nbextensions 
+
+4，configuration
+jupyter contrib nbextension install --user --skip-running-check
+
+5，restart jupyter
+jupyter notebook
