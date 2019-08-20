@@ -4,7 +4,7 @@ Reading Books
 “我生也有涯，而知也无涯，以有涯逐无涯殆矣！”
 “书不尽言，言不尽意”
 “想象力比知识更重要”
-"纸上得来终觉浅，觉知此事要躬行"
+"纸上得来终觉浅，绝知此事要躬行"
 
 # 图解机器学习.pdf
 
@@ -53,7 +53,9 @@ Published by O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol,
   - Deep Learning with Keras_wrapper.pdf
   - Deep Learning with Python.pdf
   - Deep Learning（深度学习）学习笔记整理.pdf
-
+- Interview
+  - 百面机器学习：算法工程师带你去.pdf
+  - 
 
 ## Comparation
 I get one picture from Internet [《统计学习方法》(李航)读书笔记(完结)](https://www.cnblogs.com/limitlessun/p/8611103.html) as
@@ -62,3 +64,7 @@ I get one picture from Internet [《统计学习方法》(李航)读书笔记(�
 
 ## NOTES
 (PHD.David Abel on ICML2019)(https://david-abel.github.io/notes/iclr_2019.pdf)
+
+## Others
+
+![百面机器学习：算法工程师](images/hulu.jpg)
