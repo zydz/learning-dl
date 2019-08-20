@@ -131,4 +131,7 @@ Jun ~19 2019 | Play on Kaggle
 Jun 19 2019 | Practice on data preprocessing
 Jun 20 2019 | Learn [__Transfer Learning__](https://github.com/jindongwang/transferlearning)
 Jun 28 2019 | Learn [__XGBoost__](https://xgboost.readthedocs.io/en/latest/index.html)
-Jun 04 2019 | Learn [__Feature Engineering__](https://arxiv.org/abs/1811.12808)
+Jul 04 2019 | Learn [__Feature Engineering__](https://arxiv.org/abs/1811.12808)
+Jul ~15 2019 | Learn PR
+Jul ~30 2019 | 图解机器学习
+Aug ~20 2019 | 百面机器学习：算法工程师带你去.pdf
