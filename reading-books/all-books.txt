@@ -115,3 +115,33 @@ understanding-machine-learning-theory-algorithms.pdf
 计算机视觉中的多视图几何P80-120.pdf
 语音识别技术学习：CMU Sphinx.pdf
 语音识别技术学习：原理部分.pdf
+
+
+
+
+--------------------------------------------
+Maths
+--------------------------------------------
+convex_optimazition.pdf
+Graphical Models.pdf
+Head First Statistics.pdf
+nonelinear-programming.pdf
+Statistical Pattern Recognition.pdf
+topology.pdf
+《偏微分方程》(作者)郇中丹 高等教育2004年7月第1版.pdf
+偏微分方程(第三版,普通高等教育十一五国家级规划教材).pdf
+实分析与泛函分析.pdf
+实用偏微分方程 （原书第四版）.pdf
+微分方程数值解法（2003教材）.pdf
+微分方程简明教程.pdf
+数值逼近(王仁宏）.pdf
+数学分析1(陈纪修).pdf
+数学分析2(陈纪修).pdf
+测度论基础.pdf
+矩阵分析 华章数学译丛.pdf
+矩阵计算.pdf
+计算几何--算法与应用(第三版).pdf
+陈希孺-高等数理统计学.pdf
+高等代数.pdf
+高等代数（北京大学第三版）.pdf
+高等数理统计(茆诗松).pdf
