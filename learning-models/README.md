@@ -28,3 +28,5 @@ I get one picture from Internet [《统计学习方法》(李航)读书笔记(�
 
 ## DL nets
 - [VGG16](https://www.cs.toronto.edu/~frossard/post/vgg16/)
+- ResNet
+-

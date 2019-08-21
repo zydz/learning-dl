@@ -6,3 +6,5 @@ kaggle datasets download -d datasnaek/youtube-new
 
 example:
 https://www.kaggle.com/kabure/extensive-us-youtube-eda/comments
+
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple seaborn wordcloud plotly cufflinks
