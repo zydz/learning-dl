@@ -61,6 +61,8 @@ Published by O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol,
   - Python for Data Analysis.pdf
   - Python Data Science Handbook [github](https://github.com/jakevdp/PythonDataScienceHandbook)
   - Data Science Algorithms in a Week.pdf
+  - [github books](https://github.com/SayantanMitra87/Data-Science-Books-1)
+
 
 ## Comparation
 I get one picture from Internet [《统计学习方法》(李航)读书笔记(完结)](https://www.cnblogs.com/limitlessun/p/8611103.html) as
