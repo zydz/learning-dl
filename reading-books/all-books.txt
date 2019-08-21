@@ -1,0 +1,117 @@
+import os
+
+# find all the pdf files, and put it into l
+books = ! find ./ | grep -i pdf
+
+# convert to list
+l = list(books)
+
+names = list()
+
+for f in l: 
+    (path, name) = os.path.split(f) 
+    names.append(name) 
+    print(name) 
+
+names.sort()
+for n in names:
+    print(n)
+
+
+675988《图解深度学习》-超完整书签.pdf
+A Modern Approach.pdf
+Advances in Financial Machine Learning - 2018.pdf
+Algorithms and Applications-SzeliskiBook_20100903_draft.pdf
+An_Introduction_to_Neural_Networks.pdf
+Artificial Intelligence for Robotics - 2018.pdf
+Building Machine Learning Systems with Python - Richert, Coelho.pdf
+CS224d-Lecture7.pdf
+Computer Vision A Modern Approach 2nd Edition 2012.pdf
+Data Science Algorithms in a Week.pdf
+Deep Learning for Search[www.rejoiceblog.com].pdf
+Deep Learning with Keras_wrapper.pdf
+Deep Learning with Python.pdf
+Deep Learning（深度学习）学习笔记整理.pdf
+Fundamentals of Machine Learning for Predictive Data Analytics - 2015.pdf
+Google语音识别与深度学习.pdf
+Hands-On Deep Learning for Images with TensorFlow[www.rejoiceblog.com].pdf
+Introduction to Machine Learning with Python - 2017.pdf
+LATEX for Beginners.pdf
+MATLAB神经网络30个案例分析_MATLAB中文论坛_2010_P286.pdf
+Machine Learning  A Bayesian and Optimization Perspective.pdf
+Machine Learning - An Algorithmic Perspective 2nd Edition.pdf
+Machine Learning - Tom Mitchell(中文版).pdf
+Machine Learning - Tom Mitchell.pdf
+Machine Learning For Absolute Beginners, 2nd Edition-Oliver Theobald(2017).pdf
+Machine Learning for Hackers.pdf
+Machine Learning in Action.pdf
+Machine Learning in Action（中文版）.pdf
+Machine Learning with TensorFlow - 2017.pdf
+Machine.Learning.A.Probabilistic.Perspective,.Kevin.P..Murphy,.MIT.Press,.2012.pdf
+Make Your Own Neural Network - 2016.pdf
+Multiple_View_Geometry_in_Computer_Vision__2nd_Edition.pdf
+OReilly.Hands-On.Machine.Learning.with.Scikit-Learn.and.TensorFlow.2017.3.pdf
+Pattern Recognition and Machine Learning-2006.pdf
+Point Cloud Library.pdf
+Probabilistic Robotics - 2005.pdf
+Probabilistic Robotics.pdf
+Probabilistic Robotics.pdf
+Python Deep Learning.pdf
+Python Machine Learning(2nd) - 2017.pdf
+Python Machine Learning, 2nd Edition_Machine Learning and Deep Learning with Python, scikit-learn and TensorFlow-Packt Publishing(2017).pdf
+Python for Data Analysis 2nd Edition.pdf
+Python for Data Analysis.pdf
+Python for Finance.pdf
+Python_Data_Science_Handbook@www.java1234.com.pdf
+Python_Machine_Learning.pdf.pdf
+Python数据科学手册.pdf
+Python机器学习.pdf
+ROBOT VISION_机器视觉.pdf
+Raschka - 2018 - Model Evaluation, Model Selection, and Algorithm S.pdf
+Robot Vision.pdf
+TensorFlow for Deep Learning - 2018.pdf
+The Elements of Statistical Learning .pdf
+Thoughtful Machine Learning with Python A Test-Driven Approach - 2017.pdf
+[扫描版]机器学习：实用案例解析.pdf
+[样章]机器学习：实用案例解析.pdf
+deep+learning book_cn_v0.5-beta.pdf
+deep+learning.pdf
+deeplearningbook.pdf
+dlbook_cn_v0.5-beta.pdf
+doc_spams.pdf
+evaluating-machine-learning-models(PINDEX-DOC-6950).pdf
+figure1.pdf
+ibm-machine-learning-for-dummies-ibm-limited-edition_IMM14209USEN.pdf
+sanet.cd_Machine Learning A Constraint-Based Approach.pdf
+storytelling-with-data-cole-nussbaumer-knaflic.pdf
+understanding-machine-learning-theory-algorithms.pdf
+《Feature Engineering for Machine Learning》英文PDF.pdf
+《精通特征工程》中文PDF.pdf
+《解析深度学习：语音识别实践》.pdf
+人工智能 一种现代的方法（第3版）_13442203.pdf
+人工智能基础.pdf
+利用Python进行数据分析 78.4MB.pdf
+周志华-机器学习_.pdf
+图解机器学习.pdf
+基于深度相机的三维人脸识别系统.pdf
+机器学习与数据挖掘：方法和应用.pdf
+模式识别之特征选择-杨宏晖-2016.pdf
+神经网络.pdf
+神经网络原理(S.Haykin).pdf
+统计学习方法 - 李航.pdf
+计算机视觉.pdf
+计算机视觉中的多视几何.pdf
+计算机视觉中的多视图几何P1-40.pdf
+计算机视觉中的多视图几何P120-160.pdf
+计算机视觉中的多视图几何P160-200.pdf
+计算机视觉中的多视图几何P200-240.pdf
+计算机视觉中的多视图几何P240-280.pdf
+计算机视觉中的多视图几何P280-320.pdf
+计算机视觉中的多视图几何P320-360.pdf
+计算机视觉中的多视图几何P360-400.pdf
+计算机视觉中的多视图几何P40-80.pdf
+计算机视觉中的多视图几何P400-442.pdf
+计算机视觉中的多视图几何P442-484.pdf
+计算机视觉中的多视图几何P80-120.pdf
+语音识别技术学习：CMU Sphinx.pdf
+语音识别技术学习：原理部分.pdf
