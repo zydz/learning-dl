@@ -135,3 +135,4 @@ Jul 04 2019 | Learn [__Feature Engineering__](https://arxiv.org/abs/1811.12808)
 Jul ~15 2019 | Learn PR
 Jul ~30 2019 | 图解机器学习
 Aug ~20 2019 | 百面机器学习：算法工程师带你去.pdf
+Aug ~31 2019 | 图解深度学习
