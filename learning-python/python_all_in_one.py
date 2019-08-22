@@ -928,6 +928,8 @@ def test_shell_cmd():
     cmd = "md5sum filename"  
     p = subprocess.Popen(shlex.split(cmd), stdout=subprocess.PIPE)  
     print (p.stdout.read())
+    p = subprocess.Popen(shlex.split(cmd), stdout=subprocess.PIPE)  
+    print (p.stdout.readlines())
 
 import simplejson
 def test_dict_str_conversion():
