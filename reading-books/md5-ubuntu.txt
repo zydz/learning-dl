@@ -1,0 +1,121 @@
+def gen_md5_of_folder(folder): 
+    # find all the PDFs 
+    books = ! find "$folder" -type f | grep -i pdf  
+ 
+    # d as a dictionary for {#md5sum, #path } 
+    d = dict()  
+    for book in books:  
+        md5 = !md5sum "$book"  
+        md5_str = "".join(md5)  
+        try: 
+            (key, path) = md5_str.split('  ./')  
+            d[key]=path  
+        except ValueError: 
+            print("ValueError:".join(md5_str)) 
+ 
+        #md5_set  = set(d.keys()) 
+        #md5_list = list(d.keys()) 
+ 
+    #return (md5_set, d) 
+    return d
+
+s = gen_md5_of_folder("./") 
+s_md5_set = set(s.keys())
+
+
+
+{'017de5d0cab43ef18585440ae57ae452': 'LATEX/LATEX for Beginners.pdf',
+ '04fb64453c6664972eabbe815d302f07': 'CoumputerVision/ROBOT VISION_机器视觉.pdf',
+ '0cac4c162f09a68fdba18a7f382d1d3b': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P200-240.pdf',
+ '0f7e2a122c6328e46c807a14215aadc6': 'ML/Python Machine Learning(2nd) - 2017.pdf',
+ '0ff9fc23d8c9b3bdcba04751cf9a1d1c': 'DataScience/Python数据科学手册/Python_Data_Science_Handbook@www.java1234.com.pdf',
+ '144956a273bd504af77cd74df951eee6': 'CoumputerVision/Robot Vision.pdf',
+ '1c31fa2d5640bd7b5a7ce85de34fea85': 'evaluating-machine-learning-models(PINDEX-DOC-6950).pdf',
+ '217b5e8dd78d04255266739116a1b0f6': 'ML/Pattern Recognition and Machine Learning-2006.pdf',
+ '28acdc2fa8e76bcc323971b8ca54fad3': 'ML/ML4Hacker/[样章]机器学习：实用案例解析.pdf',
+ '29d0fbf5ec71af9304ccbf385c1faaa4': 'DL/Deep Learning for Search[www.rejoiceblog.com].pdf',
+ '2b3b210a58be4fdef030a0c289fb46fa': 'ML/统计学习方法 - 李航.pdf',
+ '30530b42c922ef998e59e93774bb7870': 'FeatureEngineering/《Feature Engineering for Machine Learning》英文PDF.pdf',
+ '35c86192ae8366a4397fa1fcd9bfd154': 'DataScience/Python进行数据分析/Python for Data Analysis 2nd Edition.pdf',
+ '36046ba443b6aea98dc68cc284c1e508': 'ML/Thoughtful Machine Learning with Python A Test-Driven Approach - 2017.pdf',
+ '3692c8b9288c21d0247aaad0ca217ded': 'ML/Introduction to Machine Learning with Python - 2017.pdf',
+ '3a769603200b46ce3102fe7f4b1d2214': 'DL/deeplearningbook.pdf',
+ '3b120811c205dbd65aee46747e8ff871': 'DL/Deep Learning（深度学习）学习笔记整理.pdf',
+ '3f8b6a06de262ce79815f7199b5b1c69': 'AI/Artificial Intelligence A Modern Approach.pdf',
+ '414f09281f8974e4757d6f52212fc3de': 'DL/Hands-On Deep Learning for Images with TensorFlow[www.rejoiceblog.com].pdf',
+ '43df436ac23dfa08b4a9570b3669ab6e': 'DL/Deep Learning with Keras_wrapper.pdf',
+ '4459caa76198b9984497ab98e4714c51': 'NN/Make Your Own Neural Network - 2016.pdf',
+ '446d63c4599adfd1b91de48a5ca67859': '语音识别/Google语音识别与深度学习.pdf',
+ '4982ef23b0272837bb197395ec686b29': 'DL/TensorFlow for Deep Learning - 2018.pdf',
+ '4b509703c145f3ff2808f524ffb25843': 'Robots and Robotics/Probabilistic Robotics.pdf',
+ '501cea7f598b99bbe8f412abe07100e0': 'DataScience/storytelling-with-data-cole-nussbaumer-knaflic.pdf',
+ '52edc76eff49f88b0f8d0709153f49e9': 'NN/MATLAB神经网络30个案例分析/MATLAB神经网络30个案例分析_MATLAB中文论坛_2010_P286.pdf',
+ '534d50c0e15536bfb9f2a6754c88965a': 'ML/Machine Learning  A Bayesian and Optimization Perspective.pdf',
+ '578da2fd90adf0f5aa277ca91d7e5bd4': 'ML/understanding-machine-learning-theory-algorithms.pdf',
+ '587aa6f30a23de8cc9a9931ef942e6d4': 'DL/Deep Learning with Python.pdf',
+ '593a52ba9d30e06e62a1f6c77cd82111': 'ML/sanet.cd_Machine Learning A Constraint-Based Approach.pdf',
+ '5a70915ab2e96bd402357af085532740': 'CoumputerVision/Point Cloud Library.pdf',
+ '5b7322f29a40deaad8728fda1ba52320': 'ML/ibm-machine-learning-for-dummies-ibm-limited-edition_IMM14209USEN.pdf',
+ '5e732bddb3f8614d7a964724e23d5295': 'ML/The Elements of Statistical Learning .pdf',
+ '5ecb45d957a1b80d1b1365ea5a0b09d2': 'ML/Machine Learning with TensorFlow - 2017.pdf',
+ '64b742046c133c4637c2d9b5ef7a50ed': 'AI/Artificial Intelligence for Robotics - 2018.pdf',
+ '68578cdce1dcd133b6e33ab5ba8d1990': 'NN/神经网络-侯媛彬/神经网络.pdf',
+ '68ba105974e4ef2a82043b931b97f380': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P442-484.pdf',
+ '6c4df9b324649f2ca2705c73a5e9262a': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P320-360.pdf',
+ '743693a07bbda55e38d58574b21a3800': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P1-40.pdf',
+ '785c3356d5ba7ad403af6b464b5e318b': 'DataScience/Python进行数据分析/利用Python进行数据分析 78.4MB.pdf',
+ '78e747c009383b9b77c18fa6add83e3b': 'CoumputerVision/计算机视觉.pdf',
+ '7a375749558682503761fa801a67d7ec': 'ML/Building Machine Learning Systems with Python - Richert, Coelho.pdf',
+ '7ac1603bb67205b64503aeb502c6ace7': 'CoumputerVision/计算机视觉中的多视几何.pdf',
+ '8021a629222e131c28cbcac16d530408': 'CoumputerVision/20讲/13、稀疏表示/code/spams-matlab/doc/doc_spams.pdf',
+ '813d2e38d17b43b90d12d28dab62967c': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P360-400.pdf',
+ '81fc436d06017c7026fd6ae5ad0b9001': 'MLA/Machine Learning in Action.pdf',
+ '821ed166857bef2f3ff2eee1d6423ed7': 'AI/人工智能基础.pdf',
+ '8b3c6d03955447cb476f52059688a1ec': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P400-442.pdf',
+ '8d4d22627f4699f745fcb9605d01c3ae': 'DL/Python Deep Learning/Python Machine Learning, 2nd Edition_Machine Learning and Deep Learning with Python, scikit-learn and TensorFlow-Packt Publishing(2017).pdf',
+ '8ecfeeb2e1f9a19c770fba1ff85fa566': 'ML/Machine.Learning.A.Probabilistic.Perspective,.Kevin.P..Murphy,.MIT.Press,.2012.pdf',
+ '9062ee6a0be3f8ba27a34fe475ecd324': 'DL/CS224d-Lecture7.pdf',
+ '9103df6cf7a70a755d6da0b548bdf96a': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P120-160.pdf',
+ '92852d354a97dba0201ab42aa39ee820': 'ML/ML4Hacker/Machine Learning for Hackers.pdf',
+ '961b87d8fa149d92d0d3f04837ef011e': 'ML/OReilly.Hands-On.Machine.Learning.with.Scikit-Learn.and.TensorFlow.2017.3.pdf',
+ '9641c03818233242468b7738439ea5e1': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P80-120.pdf',
+ '9a9284739802c2cf49c51bc6914f4482': 'ML/ML4Hacker/[扫描版]机器学习：实用案例解析.pdf',
+ 'a2068feed86523bcf8557f4a18ee6dfd': 'ML/周志华-机器学习_.pdf',
+ 'a317d098b8400a7f4d0bc631ce42ecb5': 'FeatureEngineering/《精通特征工程》中文PDF.pdf',
+ 'a4e66a0cac89b309b1805f4f2ea0922c': 'DataScience/Data Science Algorithms in a Week.pdf',
+ 'a76567125d074cc181bd68c1b4a33f71': 'ML/Fundamentals of Machine Learning for Predictive Data Analytics - 2015.pdf',
+ 'a7ed3566bff97eff16f955fa211fd560': 'NN/An_Introduction_to_Neural_Networks.pdf',
+ 'a88140a9a13744ea01f8b923f384899d': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P160-200.pdf',
+ 'aa9279acc3f05b29da438e757415d90a': 'Robots and Robotics/Probabilistic Robotics - 2005.pdf',
+ 'ae0913ccbd281d74c48829644dc8a8d9': 'DataScience/Python进行数据分析/Python for Data Analysis.pdf',
+ 'af51812afa114a22d376e521eefcaa0c': 'ML/图解机器学习.pdf',
+ 'afe47798ffea327427f73ad5dba9a0eb': 'ML/Advances in Financial Machine Learning - 2018.pdf',
+ 'b3cd9dc5a51c6f8e203ca687883f612d': 'CoumputerVision/20讲/13、稀疏表示/figure/figure1.pdf',
+ 'b42ea104a8d86253caa71dbf697be90e': 'CoumputerVision/Multiple_View_Geometry_in_Computer_Vision__2nd_Edition.pdf',
+ 'b43d22894b34328cc4e4bb9e9157a7fa': '语音识别/语音识别技术学习：CMU Sphinx.pdf',
+ 'b696dcdaf4ec78fbfad957a942631552': 'ML/Machine Learning - An Algorithmic Perspective 2nd Edition.pdf',
+ 'b761017016e6c003a3e8d1a755b84b85': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P240-280.pdf',
+ 'b7840891e31298bd70dcac1d21dcc448': '语音识别/语音识别技术学习：原理部分.pdf',
+ 'b79ff895e0f7668ed1c931631a4acc9b': 'ML/Machine Learning - Tom Mitchell.pdf',
+ 'b7b8212e3bd30eacc4db1a5dd7da54c5': 'MLA/Machine Learning in Action（中文版）.pdf',
+ 'b7ee5e2e595967b4c147c2899a6ee542': 'DataScience/Python for Finance.pdf',
+ 'bb7388efa4c956f72f7ac65d6a8ac773': 'CoumputerVision/Computer Vision:Algorithms and Applications-SzeliskiBook_20100903_draft.pdf',
+ 'be79d3bd2b69df96847ed89ab323fc56': '数据挖掘/机器学习与数据挖掘：方法和应用.pdf',
+ 'c1b4a9adc1b191f27c367c657fc3aedd': 'ML/Machine Learning - Tom Mitchell(中文版).pdf',
+ 'cc1d62042147bc8a3a15ed626b1d685f': 'FeatureEngineering/模式识别之特征选择-杨宏晖-2016.pdf',
+ 'd6190f6375059b7a0e02e9b41a31595f': 'DL/675988《图解深度学习》-超完整书签.pdf',
+ 'd7bea57e6229b9eb9cec50d53c6fea5e': 'DL/deep+learning.pdf',
+ 'dd785eea9ce739be6179091c64bec512': 'DL/Python Deep Learning/Python Deep Learning.pdf',
+ 'de094cf4a680d12fafe094b5b893ec15': 'AI/人工智能 一种现代的方法（第3版）_13442203.pdf',
+ 'dffa10ad7ab0ddc4d13dcbb7dd0174a8': 'DL/Python Deep Learning/Python_Machine_Learning.pdf.pdf',
+ 'e3fdefb4031d5c12e7945b83c20d6da9': 'DL/dlbook_cn_v0.5-beta.pdf',
+ 'e5f57947afce0fa2b1380c99eda5d5a0': 'CoumputerVision/基于深度相机的三维人脸识别系统.pdf',
+ 'eadc1d8aba855e7f47466567a20bba4a': 'NN/神经网络原理(S.Haykin).pdf',
+ 'ec2d4a013e616b628504995ba08d7ecc': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P280-320.pdf',
+ 'f21fade698db97343930d94719e86d77': 'DL/Python Deep Learning/Python机器学习.pdf',
+ 'f4b8f77b2c6a3fd74f96c2cda87bc13a': 'DataScience/Python数据科学手册/Python数据科学手册.pdf',
+ 'f4d312a5196bc45688e2fa812e54b0f6': 'Raschka - 2018 - Model Evaluation, Model Selection, and Algorithm S.pdf',
+ 'f87d47a267c93c943c6cf55922c0fc44': 'CoumputerVision/Computer Vision A Modern Approach 2nd Edition 2012.pdf',
+ 'fac734e28e7ae1fc57ff669b6be325bd': 'CoumputerVision/计算机视觉中的多视图几何(中文版)/计算机视觉中的多视图几何P40-80.pdf',
+ 'fbb3ddf1f9b5e498a04ff3eb9d7b3722': '语音识别/《解析深度学习：语音识别实践》.pdf',
+ 'ffaa188c7f89a6c667b0bd3becac56bb': 'ML/Machine Learning For Absolute Beginners, 2nd Edition-Oliver Theobald(2017).pdf'}
