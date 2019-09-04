@@ -137,4 +137,6 @@ Jul ~30 2019 | 图解机器学习
 Aug ~20 2019 | 百面机器学习：算法工程师带你去.pdf
 Aug ~31 2019 | 图解深度学习
 Aug 23 2019 | Learn to study a real list:[2018中国民营企业500强榜单](http://www.ln.gov.cn/qmzx/lnzdsql/wbqfh/201808/P020180829573768987838.xls)
+Sep 1-7 2019 | 抄写代码《利用Python进行数据分析》
+Sep 8-30 2019 | 抄写代码《Python数据科学手册》
 
