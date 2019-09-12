@@ -70,9 +70,10 @@ One algorithm one day
     - CatBoost
     - [Battle of the Boosting Algorithms](https://lavanya.ai/2019/06/27/battle-of-the-boosting-algorithms/)
 
+## Virturalization
+- [Matplotlib 画廊](http://matplotlib.org/gallery.html)
 
-
-##Browse state-of-the-art 
+## Browse state-of-the-art 
 
 - [websit](<https://paperswithcode.com/sota>)
 - [CV](<https://paperswithcode.com/area/computer-vision>)
