@@ -18,6 +18,7 @@ Python itself is easy. Python's labraries are complex, however. How to learn thi
   - Scikit-learn [sklearn](https://scikit-learn.org/stable/)
   - [TensorFlow](www.tensorflow.org)
   - [Seaborn](http://seaborn.pydata.org/)
+  - regex [文档](https://docs.python.org/zh-cn/3/library/re.html) 以及此 [regex HOWTO](https://docs.python.org/zh-cn/3/howto/regex.html)
 
 ## Philosophy 
 ```
@@ -101,3 +102,6 @@ I will output my [notebook](python_interview_question-my_solution.ipynb)
 清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
 中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/
 ```
+
+### 远程访问jupyter notebook
+` https://www.cnblogs.com/yangxiaolan/p/5778305.html`
