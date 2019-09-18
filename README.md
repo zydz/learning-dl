@@ -140,5 +140,7 @@ Aug ~31 2019 | 图解深度学习
 Aug 23 2019 | Learn to study a real list:[2018中国民营企业500强榜单](http://www.ln.gov.cn/qmzx/lnzdsql/wbqfh/201808/P020180829573768987838.xls)
 Sep 1-7 2019 | 抄写代码《利用Python进行数据分析》
 Sep 8-30 2019 | 抄写代码《Python数据科学手册》
-Sep 16 2019 | 抄写代码LATEX [数学功能](https://blog.csdn.net/qfire/article/details/81382048) [关键字列表](https://blog.csdn.net/qq_39232265/article/details/78868487)
-Sep 17 2019 |  学习正则表达式的Python实现
+Sep 16 2019 | 抄写代码LATEX [功能分类](https://blog.csdn.net/qfire/article/details/81382048) [关键字列表](https://blog.csdn.net/qq_39232265/article/details/78868487) [按钮编辑](https://www.codecogs.com/latex/eqneditor.php)
+Sep 17 2019 | 学习正则表达式的Python实现
+Sep 18 2019 | 开始推导公式、抄写公式
+
