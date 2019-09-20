@@ -32,3 +32,6 @@ I get one picture from Internet [《统计学习方法》(李航)读书笔记(�
 - [VGG16](https://www.cs.toronto.edu/~frossard/post/vgg16/)
 - ResNet
 -
+
+### Comparation
+[主流深度学习框架对比（TensorFlow、Keras、MXNet、PyTorch](https://blog.csdn.net/Circlecircle3/article/details/82086396) [code](https://github.com/CircleXing001/DL-tools)
