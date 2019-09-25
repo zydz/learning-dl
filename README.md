@@ -146,3 +146,4 @@ Sep 16 2019 | 抄写代码LATEX [功能分类](https://blog.csdn.net/qfire/artic
 Sep 17 2019 | 学习正则表达式的Python实现
 Sep 18 2019 | 开始推导公式、抄写公式
 Sep 20 2019 | [MxNet](https://mxnet.apache.org/)
+Sep 26 2019 | 完成西瓜书课后题目
