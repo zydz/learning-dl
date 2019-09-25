@@ -20,7 +20,8 @@ I borrow one picture from [Virgilio](https://github.com/virgili0/Virgilio) as:
 - Mathematics: [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html#sec4.5)
 - [CNN Papers](https://github.com/robertsdionne/neural-network-papers)
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml)
-
+- [伯克利，李沐 动手学深度学习](https://courses.d2l.ai/berkeley-stat-157/)
+- [HKUST hunkim](https://github.com/hunkim/DeepLearningZeroToAll) [PyTorch](https://github.com/hunkim/PyTorchZeroToAll)
 
 There are several parts in this repo:
 ## Andrew-NG-DL-Course 
@@ -69,6 +70,7 @@ One algorithm one day
     - lightgbm
     - CatBoost
     - [Battle of the Boosting Algorithms](https://lavanya.ai/2019/06/27/battle-of-the-boosting-algorithms/)
+- AutoML [一文看懂深度学习新王者「AutoML」](http://www.sohu.com/a/249973402_610300)
 
 ## Virturalization
 - [Matplotlib 画廊](http://matplotlib.org/gallery.html)
@@ -143,4 +145,4 @@ Sep 8-30 2019 | 抄写代码《Python数据科学手册》
 Sep 16 2019 | 抄写代码LATEX [功能分类](https://blog.csdn.net/qfire/article/details/81382048) [关键字列表](https://blog.csdn.net/qq_39232265/article/details/78868487) [按钮编辑](https://www.codecogs.com/latex/eqneditor.php)
 Sep 17 2019 | 学习正则表达式的Python实现
 Sep 18 2019 | 开始推导公式、抄写公式
-
+Sep 20 2019 | [MxNet](https://mxnet.apache.org/)
