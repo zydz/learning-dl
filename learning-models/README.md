@@ -7,6 +7,10 @@ put hands on this field and make some notes here.
 # Models
 
 # Frameworks
+##MxNet
+- [mxnet gluon 教程速览](https://blog.csdn.net/bea_tree/article/details/80152223)
+- [CVPR 2017李沐介绍MXNet新接口Gluon：高效支持命令式与符号式编程](https://www.jiqizhixin.com/articles/2017-07-28-3)
+- [An Introduction to MXNet/Gluon](https://github.com/mli/cvpr17)
 ## Tensor Flow
 ## Torch
 ### install
