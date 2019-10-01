@@ -1,0 +1,17 @@
+Mac
+```
+	url = https://github.com/Avik-Jain/100-Days-Of-ML-Code
+	url = https://github.com/hunkim/DeepLearningZeroToAll
+	url = https://github.com/ctgk/PRML.git
+	url = https://github.com/BinRoot/TensorFlow-Book/
+	url = https://github.com/virgili0/Virgilio
+	url = https://github.com/d2l-ai/berkeley-stat-157.git
+	url = https://github.com/dsgiitr/d2l-pytorch
+	url = https://github.com/matroid/dlwithtf
+	url = https://github.com/FavioVazquez/ds-cheatsheets
+	url = https://github.com/ageron/handson-ml.git
+	url = https://github.com/zydz/learning-dl
+	url = git@github.com:pbharrin/machinelearninginaction.git
+	url = https://github.com/barak/mldemos.git
+	url = https://github.com/zydz/pydata-book
+```
