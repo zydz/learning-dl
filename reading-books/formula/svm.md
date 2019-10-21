@@ -65,3 +65,25 @@ Oranges & Orange \\
 \end{matrix}
 $$
 
+-----
+
+$$
+\begin{align*}
+f(\boldsymbol{x}) &= \boldsymbol{w}^T\phi(\boldsymbol{x}) +b \\
+&=\sum_{i=1}^m\alpha_iy_i\kappa(x,x_i) +b
+\end{align*}
+$$
+
+----
+
+$$
+\begin{matrix}
+& x: \vec{\boldsymbol{x}}\\
+&linear & \kappa(x_i,x_j) = x_i^Tx_j \\
+&poly   & \kappa(x_i,x_j) = (x_i^Tx_j)^d \\
+&Gause & \kappa(x_i,x_j) = exp(-\frac{\|x_i-x_j\|^2}{2\sigma^2}) \\
+&laplas & \kappa(x_i,x_j) = exp(-\frac{\|x_i-x_j\|}{\sigma}) \\
+&sigmoid & \kappa(x_i,x_j) = \tanh(\beta x_i^Tx_j+\theta)
+\end{matrix}
+$$
+
