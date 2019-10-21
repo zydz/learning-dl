@@ -4,7 +4,9 @@ R(c_i | \boldsymbol{x}) = \sum _{j=1} ^N \lambda_{ij}P({c_j | \boldsymbol{x}}) \
 \mathcal{Y}: \{c_1, c_2,\cdots, c_N\}, \\
 h: \mathcal{X} \to \mathcal{Y} \\
 R(h) = \mathbb{E}_\boldsymbol{x}[R(h(\boldsymbol{x}) | \boldsymbol{x})] \\
-h^*(\boldsymbol{x}) = \arg \min_{ c \in \mathcal{Y}}R(c|\boldsymbol{x}) \\
+\begin{align*}
+h^*(\boldsymbol{x}) &= \arg \min_{ c \in \mathcal{Y}}R(c|\boldsymbol{x}) \\
+\end{align*}
 $$
 
 -----
