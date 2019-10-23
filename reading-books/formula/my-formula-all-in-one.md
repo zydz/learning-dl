@@ -17,6 +17,25 @@ J= \frac{1}{2} \| \hat{Y} -Y \|^2 = \frac{1}{2}(\hat{Y}-Y)^T(\hat{Y}- Y)
 $$
 
 $$
+\frac{\partial{J}}{\partial{\boldsymbol{w}}} = 
+\begin{bmatrix}
+\frac{\partial{J}}{\partial{w}_1} \\
+\frac{\partial{J}}{\partial{w}_2} \\
+\vdots \\
+\frac{\partial{J}}{\partial{w}_d}
+\end{bmatrix}
+=\begin{bmatrix}
+\frac{\partial{}}{\partial{w}_1} \\
+\frac{\partial{}}{\partial{w}_2} \\
+\vdots \\
+\frac{\partial{}}{\partial{w}_d}
+\end{bmatrix}(Xw-Y)^T(Xw-Y)
+=X^TXw-X^TY =0 \\
+\Rightarrow w^* = s(X^TX)^{-1}X^TY
+$$
+
+
+$$
 w^*,b^* = \vec{\hat{w}}^* = \arg \min_{\vec{\hat{w}}} J(\vec{w}) 
 \\ 
 \frac{\partial{J}}{\partial{\hat{w}}}=0, \\
