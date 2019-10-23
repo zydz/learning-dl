@@ -22,6 +22,7 @@ I borrow one picture from [Virgilio](https://github.com/virgili0/Virgilio) as:
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml)
 - [伯克利，李沐 动手学深度学习](https://courses.d2l.ai/berkeley-stat-157/)
 - [HKUST hunkim](https://github.com/hunkim/DeepLearningZeroToAll) [PyTorch](https://github.com/hunkim/PyTorchZeroToAll)
+- [NLP RoadMap](https://github.com/graykode/nlp-roadmap)
 
 There are several parts in this repo:
 ## Andrew-NG-DL-Course 
