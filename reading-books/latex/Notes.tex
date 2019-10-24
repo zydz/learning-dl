@@ -3,6 +3,7 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{pgfplots}
 \author{az}
 \title{Notes on ML Study}
 \date{\today}
@@ -109,5 +110,31 @@ Latex is a really powerful tool. I start to use it to write article and notes.
  \item list
  \item tables
 \end{itemize}
-%list here
+%
+%
+\pgfplotsset{width=6cm,compat=1.9}
+\subsection{10.25}
+\paragraph{Start to learn plotting pictures}
+\subparagraph{Ref: https://blog.csdn.net/stereohomology/article/details/24266409}
+\begin{tikzpicture}
+\begin{axis}
+\addplot[color=red]{exp(x)};
+%\addplot[color=blue]{ln(x)};
+\addplot[color=green]{x^2};
+\end{axis}
+\end{tikzpicture}
+%Here ends the furst plot
+\hskip 5pt
+%Here begins the 3d plot
+\begin{tikzpicture}
+\begin{axis}
+\addplot3[
+    surf,
+]
+{exp(-x^2-y^2)*x};
+\end{axis}
+\end{tikzpicture}
+
+
+
 \end{document}
