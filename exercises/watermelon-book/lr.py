@@ -161,7 +161,7 @@ if __name__ == '__main__':
 
     y[y == '是'] = 1
     y[y == '否'] = 0
-    #y = y.astype(int)
+    y = y.astype(int)
 
     plt.scatter(data[:, 7][is_good], data[:, 8][is_good], c='k', marker='o')
     plt.scatter(data[:, 7][is_bad], data[:, 8][is_bad], c='r', marker='x')
