@@ -1,0 +1,39 @@
+% chap4.tex 
+\ifx\allfiles\undefined
+\documentclass{article}
+\usepackage{xeCJK}
+\begin{document}
+\title{4 朴素贝叶斯法}
+\date{}
+\maketitle
+\else
+\chapter{第4章 朴素贝叶斯法}
+\fi
+
+\paragraph{}
+朴素贝叶斯法是基于\textbf{贝叶斯定理}与\textbf{特征条件独立假设}的分类方法。
+
+
+对于给定的训练数据集，首先基于特征条件独立假设学习输入、输出的联合概率分布；然后基于此模型，对给定的输入$x$，利用贝叶斯定理求出后验概率最大的输出$y$。
+
+
+\section{4.1 朴素贝叶斯法的学习和分类}
+\subsection{基本方法}
+训练集：
+$$
+T = \{(x_1, y_1), (x_2, y_2), \cdots, (x_N, y_N) \}
+$$
+由$P(X,Y)$独立同分布产生。
+先验概率分布：
+\begin{equation}
+P(Y=c_k), k=1,2,\cdots,K
+\end{equation}
+条件概率分布
+\begin{equation}
+P(X=x|Y=c_k)=P(X^{(1)}=x^{(1)},\cdots, X^{(n)}=x^{(n)}|Y=c_k), k=1,2,\cdots,K
+\end{equation}
+
+\section{4.2 。。。}
+\ifx\allfiles\undefined
+\end{document}
+\fi
