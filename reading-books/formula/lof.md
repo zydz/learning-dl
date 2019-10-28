@@ -28,7 +28,7 @@ L(\boldsymbol{c}, R, \boldsymbol{\xi}, \boldsymbol{\alpha},\boldsymbol{\beta})
 $$
 
 $$
-\begin{align*}
+\begin{cases}
 & 
 \frac {\partial{L}}{\partial{\boldsymbol{c}}}= 0 
 \Rightarrow 
@@ -43,9 +43,8 @@ $$
 \frac {\partial{L}}{\xi_i}= 0 
 \Rightarrow
 \alpha_i + \beta_i = C, \forall i = 1,\cdots,n
-
 \\
-\end{align*}
+\end{cases}
 $$
 
 $$
@@ -66,11 +65,8 @@ $$
 
 如果$\boldsymbol{x}$满足下面条件就是异常值
 $$
-\|\boldsymbol{x}-\widehat{\boldsymbol{c}}\|^2 \gt \widehat{R}^2
+\|\boldsymbol{x}-\widehat{\boldsymbol{c}}\|^2 > \widehat{R}^2
 $$
-
-
-
 
 ### 基于密度比的异常检验
 
@@ -79,6 +75,7 @@ w(\boldsymbol{x}) = \frac{p'(\boldsymbol{x})}{p(\boldsymbol{x})}
 $$
 
 **KL散度密度比估计法**
+
 $$
 w_{\alpha}(\boldsymbol{x}) = \sum_{j=1}^b \alpha_j \psi_j(\boldsymbol{x}) = 
 \boldsymbol{\alpha}^\top \boldsymbol{\psi}(\boldsymbol{x})
@@ -88,7 +85,6 @@ $$
 w_\alpha(\boldsymbol{x})p(\boldsymbol{x})和p'(\boldsymbol{x})的相似度称为KL距离：\\
 KL(p'\|w_\alpha P) = \int p'(\boldsymbol{x}) \log \frac{p'(\boldsymbol{x})}{w_\alpha(\boldsymbol{x})p(\boldsymbol{x})} \mathrm{d}x
 $$
-
 
 $$
 s.t. \:
@@ -100,10 +96,11 @@ $$
 s.t. \frac{1}{n}\sum_{i=1}^nw_\alpha(\boldsymbol{x}_i) = 1, \alpha_i, \cdots, \alpha_{n'} \ge 0
 $$
 
-
-
 高斯核函数模型：
+
 $$
 w_{\alpha}(\boldsymbol{x}) = \sum_{j=1}^{n'}\alpha_j \exp\left( -\frac{\|x-x'_j\|^2}{2\kappa^2}
 \right)
 $$
+
+
