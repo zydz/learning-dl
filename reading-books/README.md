@@ -72,7 +72,7 @@ I get one picture from Internet [《统计学习方法》(李航)读书笔记(�
 ## NOTES
 [PHD.David Abel on ICML2019](https://david-abel.github.io/notes/iclr_2019.pdf)
 
-![图解深度学习](/opt/Work/ML/learning-dl/reading-books/xminds/images/explaination-dl-by-pictures.png)
+![图解深度学习](xminds/images/explaination-dl-by-pictures.png)
 
 ## Others
 
